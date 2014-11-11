@@ -1,6 +1,7 @@
 #header test
-=========
+
 ##here is a smaller header
+
 ###an even smaller one
 
 * this is a list
